@@ -7,6 +7,7 @@
 <body>
 <h1>*******************</h1>
 <?php 
+
 //   Variable: temporary storage in memory
 #    -------------------
 /*
@@ -14,7 +15,6 @@
 	Lines
 	Comment
 */
-
 
 //   $	before var name
 //	var name must be start (a-z, A-Z, _)
